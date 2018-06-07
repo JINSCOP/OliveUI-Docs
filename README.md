@@ -21,10 +21,10 @@ icon
 
 | 区块 | 名称 |
 | --- | --- |
+| 搜索区 | area-all-search |
 | 主细表主表区域 | area-main-common-edit |
 | 主细表子表区域中的单条数据编辑界面 | area-detail-common-edit |
-| 搜索区 | area-all-search |
-| 界面的明细编辑区域 | area-ab1-detail-edit |
+| 列表和编辑同界面的界面的明细编辑区域 | area-ab1-detail-edit |
 
 * 备忘笔记
 
