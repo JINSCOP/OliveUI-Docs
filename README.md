@@ -41,12 +41,12 @@ icon
 
 | 区块 | 标准名称 |
 | --- | --- |
-| 主工具栏区域 | area-tool-bar |
-| 表格工具栏区域 | area-tool-bar-for-table |
-| 搜索区 | area-all-search |
-| 主细表主表区域 | area-main-common-edit |
-| 主细表子表区域中的单条数据编辑界面 | area-detail-common-edit |
-| 列表和编辑在同一界面（AB类）的界面的明细编辑区域 | area-ab1-detail-edit |
+| 主工具栏区域 | oui-area-tool-bar |
+| 表格工具栏区域 | oui-area-tool-bar-for-table |
+| 搜索区 | oui-area-all-search |
+| 主细表主表区域 | oui-area-main-common-edit |
+| 主细表子表区域中的单条数据编辑界面 | oui-area-detail-common-edit |
+| 列表和编辑在同一界面（AB类）的界面的明细编辑区域 | oui-area-ab1-detail-edit |
 
 * 备忘笔记
 
@@ -86,12 +86,12 @@ area-ab1-detail-edit:   界面的明细编辑区域{
 
 | 标准名称 | 说明 |
 | --- | --- |
-| a1 | 结果集为单表的列表页面 |
-| a2 | 树加表格的列表页面 |
-| a3 | 树加主细表的列表页面 |
-| b1 | 结果集为单个表的编辑页面 |
-| b2 | 主细表的编辑页面 |
-| ab1 | 左边列表，右边编辑区的ab混合页面 |
+| oui-a1 | 结果集为单表的列表页面 |
+| oui-a2 | 树加表格的列表页面 |
+| oui-a3 | 树加主细表的列表页面 |
+| oui-b1 | 结果集为单个表的编辑页面 |
+| oui-b2 | 主细表的编辑页面 |
+| oui-ab1 | 左边列表，右边编辑区的ab混合页面 |
 
 a1{
 	
