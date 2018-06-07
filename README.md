@@ -21,10 +21,12 @@ icon
 
 | 区块 | 名称 |
 | --- | --- |
+| 主工具栏区域 | area-tool-bar |
+| 表格工具栏区域 | area-tool-bar-for-table |
 | 搜索区 | area-all-search |
 | 主细表主表区域 | area-main-common-edit |
 | 主细表子表区域中的单条数据编辑界面 | area-detail-common-edit |
-| 列表和编辑同界面的界面的明细编辑区域 | area-ab1-detail-edit |
+| 列表和编辑在同一界面（AB类）的界面的明细编辑区域 | area-ab1-detail-edit |
 
 * 备忘笔记
 
@@ -54,6 +56,12 @@ area-ab1-detail-edit:   界面的明细编辑区域{
 
 
 ## 页面
+
+命名规则：
+
+* 页面的命名都是以字母开头，数字结尾，例如：a1。
+* a表示列表类界面;b表示编辑类界面;ab表示同时具备列表和编辑界面，并且列表和编辑界面都是界面主要构成。
+
 a1{
 	
 }
@@ -74,5 +82,9 @@ ab1{
 
 
 
-控件：
-树控件
+## Complex控件
+| 控件中文名 | 控件英文名 |
+| --- | --- |
+| 树控件 | ngx-first-tree |
+| 工具栏控件 | ngx-tool-bar |
+|  |  |
