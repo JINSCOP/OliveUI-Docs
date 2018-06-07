@@ -119,3 +119,8 @@ ab1{
 | 树控件 | ngx-first-tree |
 | 工具栏控件 | ngx-tool-bar |
 |  |  |
+
+
+## 基本控件
+
+基本控件基本上是继承Bootstrap，然后再进行重写一部分样式。
