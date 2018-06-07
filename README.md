@@ -6,7 +6,26 @@ show出自定义字段
 
 ## 主题变量
 
-区块之间展开收拢的控件
+| 变量名 | 说明 |
+| --- | --- |
+| font-size-profile-context-menu | 侧写上下文菜单的字体大小 |
+| font-size-menu-main-l1 | 主菜单字大小l1 |
+| font-size-menu-main-l2 | 主菜单字大小l2 |
+| font-size-menu-main-l3 | 主菜单字大小l3 |
+| font-size-menu-main-l4 | 主菜单字大小l4 |
+| font-size-toolbar-main-l1 | 主工具栏字大小l1 |
+| font-size-toolbar-main-l2 | 主工具栏字大小l2 |
+| font-size-toolbar-main-l3 | 主工具栏字大小l3 |
+| bg-color-index-0 | 全局背景色/最底层背景色 |
+| bg-color-toolbar-main | 主工具栏背景色 |
+| bg-color-toolbar-sub | 子工具栏背景色 |
+| tint-color-boolbar-main | 主工具栏前景色 |
+| tint-color-boolbar-sub | 主工具栏前景色 |
+| width-between-area-row | 区块之间的间距 |
+| width-in-area-row | 区块内行间距 |
+| icon-collapse-between-area | 区块间折叠的icon |
+| icon-expand-between-area | 区块间展开的icon |
+
 
 icon
 
@@ -14,6 +33,7 @@ icon
 
 ## 非主题变量
 
+概念定义： 非主题变量是指该变量不应该跟随主题的变化而改变，但他仍然是变量可能由具体的项目自行调整。
 
 ## 区块
 
